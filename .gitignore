@@ -1,0 +1,12 @@
+# Git 06 Exercise (Future Savvy)
+# Anything starting with a '#' are considered comments in .gitignore
+
+# Ignoring individual files is just a matter of putting their specific names each on a separate line
+.DS_Store
+Thumbs.db
+
+# Ignoring a type of file requires use of the wildcard '*', which says 'anything'
+*.jpg
+
+# Ignoring the contents of a folder requires that we use the folder name in addition to the wildcard
+images/*
