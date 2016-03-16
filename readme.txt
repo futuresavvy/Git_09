@@ -1,4 +1,3 @@
-This is no longer the first commit.
-This is ALSO no longer a second commit in which some further changes are being made.
+Git 05 Exercise from Future Savvy http://futuresavvy.xyz
 
-This is the third (and final) commit for now.
+Welcome to the exercise for the Git 05 "Reverting (undoing) Changes" module. To complete the module's activity, please make sure to open this folder using either command-line git, or your preferred git GUI.
